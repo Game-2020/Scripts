@@ -24,7 +24,7 @@ if (url.indexOf(vip) != -1) {
    }
    
 if (url.indexOf(dish) != -1) {
-obj["data"]["power"]["detail"]["video"]["common"]["isShow"] = "0";
+obj["data"]["power"]["detail"]["video"]["common"]["isShow"] = "2";
      body = JSON.stringify(obj);
      }
 
