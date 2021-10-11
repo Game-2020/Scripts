@@ -71,7 +71,7 @@ const engineData = {
 	// DuckDuckGo
 	ddg: "https://duckduckgo.com/?ia=about&q=%@",
 	// Bing
-	bi: "https://cn.bing.com/search?q=%@",
+	bi: "https://www.bing.com/search?q=%@",
 	// Google
 	gl: "https://www.google.com/search?q=%@",
 	"@default": "bi",
