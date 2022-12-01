@@ -1,5 +1,5 @@
 /*
-https:\/\/book\.haitunwallet\.com\/app\/vip\/status url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/htjz.js
+https:\/\/book\.haitunwallet\.com\/app\/vip\/status url script-response-body https://raw.githubusercontent.com/Game-2020/Scripts/main/htjz.js
 MITM ＝ book.haitunwallet.com, 
 */
 
