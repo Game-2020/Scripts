@@ -6,5 +6,6 @@ hostname = app.ilovechina.tech
 */
 
 var body=$response.body;
-body = body.replace(/"state\":0,'"state":1,"endtime":"2222-12-12"');
+body = body.replace(/"state\":0,'"state":1,');
+body = body.replace(/"endtime\":null/g,'"endtime":"2222-12-12"');
 $done(body);
